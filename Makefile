@@ -6,3 +6,6 @@ brain-games:
 
 publish:
 	pnpm publish --dry-run
+
+lint:
+	pnpx oxlint .
