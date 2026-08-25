@@ -21,7 +21,10 @@
   },
   "type": "module",
   "dependencies": {
-    "oxlint": "^1.80.0",
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "exlint": "^0.1.6",
+    "oxfmt": "^0.65.0"
   }
 }
